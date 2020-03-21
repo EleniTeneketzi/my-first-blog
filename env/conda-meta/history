@@ -1,0 +1,18 @@
+==> 2020-03-20 20:01:37 <==
+# cmd: C:\Users\pituf\Anaconda3\Scripts\conda-script.py create --prefix=C:\Users\pituf\Desktop\ETi\6-Python\Workspace\djangogirls\env
+# conda version: 4.7.12
+==> 2020-03-20 20:03:57 <==
+# cmd: C:\Users\pituf\Anaconda3\Scripts\conda-script.py install pip
+# conda version: 4.7.12
++defaults::ca-certificates-2020.1.1-0
++defaults::certifi-2019.11.28-py38_0
++defaults::openssl-1.1.1e-he774522_0
++defaults::pip-20.0.2-py38_1
++defaults::python-3.8.1-h5fd99cc_8_cpython
++defaults::setuptools-46.0.0-py38_0
++defaults::sqlite-3.31.1-he774522_0
++defaults::vc-14.1-h0510ff6_4
++defaults::vs2015_runtime-14.16.27012-hf0eaf9b_1
++defaults::wheel-0.34.2-py38_0
++defaults::wincertstore-0.2-py38_0
+# update specs: ['pip']
